@@ -45,6 +45,25 @@ h2 {
 
 /* ------ FIM HEADER ------- */
 
+/* ------ INICIO SECTION ------- */
+
+.section {
+    color: #000;
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.section_about_carousel {
+    border-left: 1px solid grey;
+}
+
+.carousel-caption-text {
+    background: none;
+    font-size: 15px;
+}
+
+/* ------ FIM SECTION ------- */
 
 
 /* ------ INÍCIO FOOTER ------- */
