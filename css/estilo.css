@@ -1,0 +1,65 @@
+/* -----------------------------
+    Blog - Ardison Rubim
+    Data de criação: 05/08/2021
+-------------------------------- */
+
+/* ------ HEADER ------ */
+header {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    padding: 2em 0;
+    background-color: slategray;
+}
+
+ul {
+    margin-bottom: 2rem;
+}
+h2, p {
+    letter-spacing: 4px;
+    color: azure;
+    background-color: slategray;
+}
+
+h2 {
+    padding-top: 5px 0px;
+    margin: 10px 0px;
+}
+
+.ul-cabecalho {
+    margin-bottom: 20px;
+}
+
+.icons {
+    padding: 0px 30px 0px 0px;
+}
+.nav-link {
+    background-color: aqua;
+    opacity: 50%;
+}
+
+#imagem {
+    height: 200px;
+    border-radius: 50%;
+}
+
+/* ------ FIM HEADER ------- */
+
+
+
+/* ------ INÍCIO FOOTER ------- */
+footer {
+    padding: 3rem;
+    background-color: rgb(2, 19, 37);
+    color: bisque;
+}
+
+#rodape {
+    padding: 0px;
+}
+
+.a-rodape {
+    margin-left: 5px;
+}
+
+/* ------ FIM FOOTER ------- */
