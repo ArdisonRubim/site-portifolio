@@ -1,4 +1,4 @@
-# site-portifolio
+# Site-portifolio
 Modelo simples de site para portfólio
 
 # Site Portifólio License 
@@ -16,6 +16,6 @@ Modelo simples de site para portfólio
 - HTML / CSS /
 - BootStrap
 
-## SITE USADO PARA USAR FOTOS
+## Site usado para baixar fotos
 - https://unsplash.com/
 
